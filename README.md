@@ -1,1 +1,1 @@
-# stolobot
+# lotobot
